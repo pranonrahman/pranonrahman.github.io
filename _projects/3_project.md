@@ -1,7 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Competitive Programming Progress Tracker
 description: Track your coding journey with ease—an innovative tool that keeps you ahead in competitive programming rankings.
+img:
 importance: 2
 category: app
 giscus_comments: false
@@ -15,4 +16,4 @@ Developed a programming progress tracker application to fetch and display rankin
 
 - Developed an application to track programming contest rankings from online judges like CodeForces, VJudge, and Toph.
 - Implemented API integration for CodeForces and web scraping techniques for VJudge and Toph.
-- Created a user-friendly interface using the Tkinter library. -->
+- Created a user-friendly interface using the Tkinter library.

@@ -1,7 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Automated Diagnostic Center Management Tool
 description: Streamlining diagnostic centers with a cutting-edge web app for efficient appointment scheduling, patient management, and inventory tracking.
+img:
 importance: 2
 category: web
 giscus_comments: false
@@ -14,4 +15,4 @@ Developed a web application for managing appointments, patient and doctor histor
 **Key Contributions:**
 
 - Developed a web application for managing appointments, patient and doctor histories, and inventory management.
-- Utilized Spring Boot, Hibernate, and Oracle Database for backend development. -->
+- Utilized Spring Boot, Hibernate, and Oracle Database for backend development.

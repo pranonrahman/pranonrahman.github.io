@@ -1,7 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Densely-Populated Traffic Detection using YOLOv5
 description: Navigating urban jungles—advanced object detection for densely populated traffic scenarios.
+img:
 importance: 2
 category: ai
 giscus_comments: true
@@ -14,4 +15,4 @@ Worked on object localization and detection for densely-populated traffic scenar
 **Key Contributions:**
 
 - Worked on object localization and detection for densely-populated traffic scenarios.
-- Implemented a solution with non-maximum suppression ensembling to handle complex traffic environments. -->
+- Implemented a solution with non-maximum suppression ensembling to handle complex traffic environments.
