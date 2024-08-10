@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineer @Therap
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dhaka, Bangladesh</p>
+    <p>Mail: raianrahman@iut-dhaka.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Raian Rahman, currently working as a **Software Engineer at [Therap BD Ltd](https://therapbd.com/)**, where I focus on full-stack development, system optimization, and data integration. I completed my **Bachelor of Science in Computer Science and Engineering** from the [Islamic University of Technology(IUT)](https://cse.iutoic-dhaka.edu/) , where my research experience have primarily revolved around Natural Language Processing (NLP), Computer Vision, and Data Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my time at Therap BD Ltd, I have played a key role in developing the [Therap Connect](https://www.therapconnect.net/) application, working on **Reusable UI Components ,Backend Services, RESTful APIs, and integrating IoT devices** to enhance the application's scalability and robustness. My contributions have also included **optimizing database queries**, which resulted in a significant reduction in execution time and improved system performance. Previously, as a Machine Learning Engineer Intern at [Pioneer Alpha Limited](https://pioneeralpha.com/), I worked on fine-tuning state-of-the-art NLP models like mT5 and mBART for Bengali question-answering systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research work has focused on areas such as **Chart Summarization, Object Detection, Multimodal Learning, Large Language Models, and Text Style Transfer** with notable contributions to NLP and Computer Vision. I am passionate about furthering my research in these fields and continuing to contribute to innovative solutions. You can find more about my research and its impact on my Google Scholar [profile](https://scholar.google.com/citations?user=MiTS-lwAAAAJ&hl=en).
