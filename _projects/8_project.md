@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: c-MSD - A Curated Dataset for Medical Expertise Style Transfer
 description: Bridging the gap in medical communication—developing smarter, more accurate medical expertise style transfer systems.
@@ -14,4 +14,4 @@ Developed a curated dataset for medical expertise style transfer, focusing on ac
 **Key Contributions:**
 
 - Worked on text style transfer for medical expertise.
-- Focused on active learning and human-in-the-loop methodologies for dataset cleanup.
+- Focused on active learning and human-in-the-loop methodologies for dataset cleanup. -->
