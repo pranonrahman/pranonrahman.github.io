@@ -1,17 +1,13 @@
 <!-- ---
 layout: page
-title: c-MSD - A Curated Dataset for Medical Expertise Style Transfer
-description: Bridging the gap in medical communication—developing smarter, more accurate medical expertise style transfer systems.
-importance: 1
+title: project 9
+description: another project with an image 🎉
+img: 
+importance: 4
 category: ai
-giscus_comments: false
 ---
 
-**Summary:**
-
-Developed a curated dataset for medical expertise style transfer, focusing on active learning and human-in-the-loop methodologies.
-
-**Key Contributions:**
-
-- Worked on text style transfer for medical expertise.
-- Focused on active learning and human-in-the-loop methodologies for dataset cleanup. -->
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+ -->
