@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization
+title: ChartSumm - A Comprehensive Benchmark for Automatic Chart Summarization
 description: Transforming complex charts into insightful narratives—setting new standards in automatic chart summarization.
-importance: 2
+importance: 1
 category: ai
 giscus_comments: false
 ---
