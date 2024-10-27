@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I have joined Therap Services as an Associate Software Engineer.
+Joined Therap Services as an Associate Software Engineer.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

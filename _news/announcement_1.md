@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ChartSumm: A Large Benchmark for Automatic Chart Summarization is accepted in 2023 proceedings of Canadian AI (CANAI)
+One paper accepted in proceedings of Canadian AI (CANAI) 2023 :sparkles: :smile:
